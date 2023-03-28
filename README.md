@@ -366,7 +366,7 @@ def signup_success(request):
 http://localhost:8000/verify_email/nse/SnzdAZDrEKTzVEiBUBhg/
 
 ```
-```
+
 ![Screenshot (563)](https://user-images.githubusercontent.com/34247973/228315076-ea444393-6713-4b21-b2fe-7e424db228b4.png)
 ![Screenshot (565)](https://user-images.githubusercontent.com/34247973/228315121-5992aa4a-78c3-4162-98f0-66c8f3129e67.jpg)
 
