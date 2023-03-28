@@ -221,7 +221,9 @@ urlpatterns = [
 ```bash
 python manage.py runserver
 ```
-Screenshot (553).png
+
+![Screenshot (553)](https://user-images.githubusercontent.com/34247973/228314600-06cf59d8-4a1b-4ab5-a019-fc8652b3e55d.png)
+
 
 ## myapp/models.py
 
@@ -286,7 +288,9 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
-Screenshot (555).jpg
+
+![Screenshot (555)](https://user-images.githubusercontent.com/34247973/228314735-98893424-596d-43b7-a042-525df534e084.jpg)
+
 
 
 
@@ -351,20 +355,21 @@ def signup_success(request):
 
 ```
 
+![Screenshot (556)](https://user-images.githubusercontent.com/34247973/228314803-3dffc746-8d43-427a-aa01-bca411127df8.png)
+![Screenshot (558)](https://user-images.githubusercontent.com/34247973/228314842-e256eea6-5a33-436d-a345-93a45e0be603.png)
+![Screenshot (559)](https://user-images.githubusercontent.com/34247973/228314870-471823d1-6fdb-427d-9deb-508d103b3ec6.jpg)
+![Screenshot (561)](https://user-images.githubusercontent.com/34247973/228314916-a86ff69c-d3c1-46c4-aec6-4770b2c677fc.png)
+![Screenshot (562)](https://user-images.githubusercontent.com/34247973/228314958-e2544b8f-3121-4d36-9d7c-cf5c48ff76e8.png)
 
-Screenshot (556).png
-Screenshot (558).png
-Screenshot (559).png
-Screenshot (561).png
-Screenshot (562).png
 
 ```bash
 http://localhost:8000/verify_email/nse/SnzdAZDrEKTzVEiBUBhg/
 
 ```
 ```
-Screenshot (563).png
-Screenshot (565).png
+![Screenshot (563)](https://user-images.githubusercontent.com/34247973/228315076-ea444393-6713-4b21-b2fe-7e424db228b4.png)
+![Screenshot (565)](https://user-images.githubusercontent.com/34247973/228315121-5992aa4a-78c3-4162-98f0-66c8f3129e67.jpg)
+
 ```bash
 'email varified True'
 ```
